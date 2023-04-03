@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-SERIALCOM.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal Projects\Balloon\Intermediate\Build\Win64\BalloonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"D:\Unreal Projects\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
-"D:\Unreal Projects\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
-/OUT:"D:\Unreal Projects\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
+"C:\Users\revan\Documents\GitHub\Balloon\Intermediate\Build\Win64\BalloonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+"C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
+/OUT:"C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
