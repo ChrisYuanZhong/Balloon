@@ -8,7 +8,5 @@
 /NODEFAULTLIB
 "C:\Users\revan\Documents\GitHub\Balloon\Intermediate\Build\Win64\BalloonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
 "C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
-"C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\SerialCom.gen.cpp.obj"
-"C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\SERIALCOM.init.gen.cpp.obj"
 "C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
 /OUT:"C:\Users\revan\Documents\GitHub\Balloon\Plugins\SerialCOM_4_UE510\Intermediate\Build\Win64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
